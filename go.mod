@@ -1,4 +1,4 @@
-module github.com/schultyy/insecurewebapp
+module github.com/schultyy/isitdown
 
 go 1.19
 
